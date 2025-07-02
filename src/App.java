@@ -7,7 +7,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         Sets sets = new Sets();
 
-        System.out.println("Wellington Guzmán");
+        System.out.println("Nombre: Wellington Guzmán");
         /*runHashSet(sets);
         System.out.println();
         runLinkedHashSet(sets);
