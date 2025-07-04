@@ -45,3 +45,7 @@ Pablo Lopez - 222222222
 Pedro Lopez - 222222222
 Ana Perez - 987654321
 Luis Perez - 111111111
+
+
+Ejercicios con SET
+![alt text](image.png)

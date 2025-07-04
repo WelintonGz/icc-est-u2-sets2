@@ -2,6 +2,7 @@ import java.util.Set;
 
 import Controllers.Sets;
 import Controllers.ContactoController;
+import Controllers.Ejercicios;
 
 public class App {
     public static void main(String[] args) throws Exception {
@@ -19,13 +20,15 @@ public class App {
         runTreeSetConComparador2(sets);
         System.out.println();*/
 
-        ContactoController c = new ContactoController();
+        /*ContactoController c = new ContactoController();
         System.out.println("---Ordenado por Nombre - Apellido---");
         c.runTreeContacto();
         System.out.println("---Ordenada nombre Apellido Numero - Telefono---");
         c.runTreeContactoNumeros();
         System.out.println("---Ordenada por HashCode---");
-        c.runTreeContactoHash();
+        c.runTreeContactoHash();*/
+
+        Ejercicios e = new Ejercicios();
 
     }
     /*public static void runHashSet(Sets sets){
